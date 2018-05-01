@@ -1,0 +1,18 @@
+C:\Users\jmar8\Documents\Conestoga\Year3\Fall&Winter\BI\Assignments\BI_A01\BI_A01\bin\Debug\BI_A01.exe.config
+C:\Users\jmar8\Documents\Conestoga\Year3\Fall&Winter\BI\Assignments\BI_A01\BI_A01\bin\Debug\BI_A01.exe
+C:\Users\jmar8\Documents\Conestoga\Year3\Fall&Winter\BI\Assignments\BI_A01\BI_A01\bin\Debug\BI_A01.pdb
+C:\Users\jmar8\Documents\Conestoga\Year3\Fall&Winter\BI\Assignments\BI_A01\BI_A01\obj\Debug\BI_A01.csprojResolveAssemblyReference.cache
+C:\Users\jmar8\Documents\Conestoga\Year3\Fall&Winter\BI\Assignments\BI_A01\BI_A01\obj\Debug\BI_A01.MyForm.resources
+C:\Users\jmar8\Documents\Conestoga\Year3\Fall&Winter\BI\Assignments\BI_A01\BI_A01\obj\Debug\BI_A01.Properties.Resources.resources
+C:\Users\jmar8\Documents\Conestoga\Year3\Fall&Winter\BI\Assignments\BI_A01\BI_A01\obj\Debug\BI_A01.csproj.GenerateResource.Cache
+C:\Users\jmar8\Documents\Conestoga\Year3\Fall&Winter\BI\Assignments\BI_A01\BI_A01\obj\Debug\BI_A01.exe
+C:\Users\jmar8\Documents\Conestoga\Year3\Fall&Winter\BI\Assignments\BI_A01\BI_A01\obj\Debug\BI_A01.pdb
+D:\Year 3\BI\BI_A01\BI_A01\bin\Debug\BI_A01.exe.config
+D:\Year 3\BI\BI_A01\BI_A01\obj\Debug\BI_A01.exe
+D:\Year 3\BI\BI_A01\BI_A01\obj\Debug\BI_A01.pdb
+D:\Year 3\BI\BI_A01\BI_A01\bin\Debug\BI_A01.exe
+D:\Year 3\BI\BI_A01\BI_A01\bin\Debug\BI_A01.pdb
+D:\Year 3\BI\BI_A01\BI_A01\obj\Debug\BI_A01.csprojResolveAssemblyReference.cache
+D:\Year 3\BI\BI_A01\BI_A01\obj\Debug\BI_A01.MyForm.resources
+D:\Year 3\BI\BI_A01\BI_A01\obj\Debug\BI_A01.Properties.Resources.resources
+D:\Year 3\BI\BI_A01\BI_A01\obj\Debug\BI_A01.csproj.GenerateResource.Cache
